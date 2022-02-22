@@ -1,0 +1,15 @@
+{
+    "name": "neto/musix",
+    "description": "Search music lyrics",
+    "type": "bot",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Musixmatch\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.4",
+        "vlucas/phpdotenv": "^5.4"
+    }
+}

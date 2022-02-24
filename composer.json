@@ -1,7 +1,6 @@
 {
     "name": "neto/musix",
     "description": "Search music lyrics",
-    "type": "bot",
     "license": "MIT",
     "autoload": {
         "psr-4": {

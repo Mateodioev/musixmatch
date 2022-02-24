@@ -3,8 +3,7 @@
 use Musixmatch\Musixmatch;
 
 // Load api key from .env file
-Musixmatch::SetApiKeyEnv(__DIR__);
-# Musixmatch::SetApiKey('YOUR API KEY HERE'); // or Musixmatch::SetApiKey('YOUR API KEY HERE');
+Musixmatch::SetApiKeyEnv(__DIR__); // or Musixmatch::SetApiKey('YOUR API KEY HERE');
 
 /**
  * Basic example

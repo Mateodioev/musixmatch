@@ -1,4 +1,5 @@
 # MusixMatch API
+[![CodeFactor](https://www.codefactor.io/repository/github/mateodioev/musixmatch/badge)](https://www.codefactor.io/repository/github/mateodioev/musixmatch)
 
 See examples in the [examples](examples/) folder
 
